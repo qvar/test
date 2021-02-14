@@ -1,4 +1,4 @@
 # test
 For testing of git commands
 
-This page is on main branch.
+Updated: This page is on GH PAGES branch.
